@@ -43,7 +43,7 @@ speedtest>=0.0.1
 speedtest-cli
 telegraph
 tgcrypto
-pyrotgfork
+pyrotgfork==2.1.36
 ujson
 wget
 werkzeug>=2.0
